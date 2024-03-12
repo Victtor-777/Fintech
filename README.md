@@ -3,9 +3,9 @@
 </p>
 
 # 📊 Dashboard Fintech - React + TypeScript + Vite
-Projeto utilizando uma API, para mostrar os dados de vendas de uma empresa. Projeto feito para praticar TypeScript de uma maneira mais "Mundo Real".
+Projeto de um Dashboard de Vendas, utilizando uma API para buscar os dados das vendas originais do curso Origamid. Foi Utilizado React com TypeScript nesse projeto, que foi um projeto bem robusto, que pude aprender ainda mais sobre TypeScript e como resolver alguns problema dele com o React.
 
-- Veja o projeto: [Live Preview](https://dados-de-vendas.vercel.app)
+- Veja o projeto: [Live Preview](https://victtor-fintech.vercel.app/)
 
 ## ⚙️ Funcionalidades
 
@@ -17,10 +17,12 @@ Projeto utilizando uma API, para mostrar os dados de vendas de uma empresa. Proj
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Recharts](https://recharts.org/en-US/)
 
 ## 📝 Considerações
 
-Nesse projeto e durante o curso da Origamid, eu pude aprender bastante sobre Typescript e praticamente não consegui ficar sem usar Typescript depois disso;
-
+Depois desse projeto apreendi a resolver a maioria dos problemas que eu tinha com o TypeScript e React, além de aprender sobre o Vite e a Biblioteca de Gráficos "Recharts".
+A cada dia fica cada vez mais difícil não usar TypeScript em tudo que eu for fazer.
