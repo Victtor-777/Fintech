@@ -10,8 +10,10 @@ Projeto de um Dashboard de Vendas, utilizando uma API para buscar os dados das v
 ## ⚙️ Funcionalidades
 
 - [x] Faz uma requisição de uma API para buscar os dados das vendas;
+- [x] Gráfico mostrando os dados das vendas de acordo com o período ou mês selecionado;
 - [x] Código feito para ser seguro e protegido contra vários tipos de possíveis erros;
 - [x] Feito utilizando TypeScript e suas boas práticas e conceitos como Typeguard e outros;
+- [x] Site totalmente responsivo;
 
 ## 🚀 Tecnologias
 
